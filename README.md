@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9tk2vk412vjixbej?svg=true)](https://ci.appveyor.com/project/SashaQA32/test-mode)
