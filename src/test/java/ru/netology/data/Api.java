@@ -12,6 +12,7 @@ public class Api {
             .setBaseUri("http://localhost")
             .setPort(9999)
             .setAccept(ContentType.JSON)
+            .setContentType(ContentType.JSON)
             .log(LogDetail.ALL)
             .build();
 
